@@ -4,7 +4,7 @@ public class Decimal_To_Binary
 public static long decimal_to_binary(int n)
 {
 long b= 0;
-int r, i, flag = 1;
+int r, i;
 for(i = 1; n != 0; i = i * 10)
 {
 r = n % 2;
