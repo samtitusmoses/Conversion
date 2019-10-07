@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main
+public class Decimal_To_Binary
 {
 public static long decimal_to_binary(int n)
 {
